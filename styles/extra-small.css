@@ -1,0 +1,113 @@
+@media screen and (max-width: 768px) {
+
+/*START*//*START*//*START*//*START*//*START*//*START*//*START*/
+
+
+.site-name a {
+    color: white;
+    margin-left: 20px;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: pink !important;
+}
+
+.navbar-toggle {
+    background-color: #E2305B !important;
+    border: 0;
+}
+
+.navbar-toggle:hover {
+    background-color: #E2305B !important;
+    border: 0;
+}
+
+.nav-footer {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.form-orange {
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*/
+
+}
+
+
+@media (max-width: 767px) {
+
+    .navbar-collapse {
+        border: 0;
+        position: relative;
+        left: 15px;
+    }
+
+    .nav-pills > li {
+        float: none;
+    }
+
+    .nav-pills {
+        text-align: center;
+    }
+}
+
+
+@media screen and (min-width: 600px) and (max-width: 650px) {
+
+.form-orange {
+    padding-right: 50px;
+}
+
+}
+
+
+@media screen and (min-width: 486px) and (max-width: 600px) {
+
+.form-orange {
+    padding-right: 60px;
+}
+
+}
+
+@media screen and (min-width: 371px) and (max-width: 485px) {
+
+.form-orange {
+    padding-right: 100px;
+}
+
+}
+
+@media screen and (max-width: 370px) {
+
+.form-orange {
+    padding-right: 110px;
+}
+
+}

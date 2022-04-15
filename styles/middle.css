@@ -1,0 +1,76 @@
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+/*START*//*START*//*START*//*START*//*START*//*START*//*START*/
+
+.site-name a {
+    margin-left: 0;
+}
+
+.container-nav {
+    position: relative;
+    left: 37px;
+}
+
+.main-container {
+    width: 836px;
+}
+
+.container-detail {
+    width: 836px;
+}
+
+.form-avatar-div {
+	margin-left: 5px;
+}
+
+.box-out-center {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.box-out-right {
+    margin-right: -5px;
+}
+
+.box-out-left {
+    margin-left: -5px;
+}
+
+.box-out-right-more {
+    margin-left: 0;
+    position: relative;
+    left: 5px;
+}
+
+.box-out-left-more {
+    margin-left: 0;
+    position: relative;
+    right: 5px;
+}
+
+.nav-footer {
+	position: relative;
+	right: 15px;
+}
+
+/*
+.posledniy-pleylist {
+	margin-top: 18px;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*/
+
+}

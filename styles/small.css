@@ -1,0 +1,42 @@
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+/*START*//*START*//*START*//*START*//*START*//*START*//*START*/
+
+.site-name a {
+    margin-left: 20px;
+}
+
+.main-container {
+    width: 690px;
+}
+
+.container-detail {
+    width: 690px;
+}
+
+.nav-footer {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.form-orange {
+	margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*/
+
+}

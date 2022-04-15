@@ -1,0 +1,59 @@
+@media screen and (min-width: 1200px) {
+    
+/*START*//*START*//*START*//*START*//*START*//*START*//*START*/
+
+.container-nav {
+    position: relative;
+    left: 43px;
+}
+
+.main-container {
+    width: 836px;
+}
+
+.container-detail {
+    width: 836px;
+}
+
+.form-avatar-div {
+	margin-left: 5px;
+}
+
+.box-out-center {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.box-out-right {
+    margin-right: -5px;
+}
+
+.box-out-left {
+    margin-left: -5px;
+}
+
+.box-out-right-more {
+    margin-left: 0;
+    position: relative;
+    left: 5px;
+}
+
+.box-out-left-more {
+    margin-left: 0;
+    position: relative;
+    right: 5px;
+}
+
+.nav-footer {
+	position: relative;
+	right: 10px;
+}
+
+/*.posledniy-pleylist {
+	margin-top: 0px;
+}*/
+
+
+/*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*/
+    
+}
